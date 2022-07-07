@@ -36,6 +36,14 @@ $ npm install
 
 `$ npx truffle migrate --reset --skip-dry-run`
 
-### 5. Run Tests
+### 5. Run
 
-`$ npx truffle test`
+`$ npm start`
+
+### 6. Connect Metamask
+
+```
+- Connect metamask
+- Import account ganache: Open metamask -> setting -> import account -> enter private key account number 2 in ganache account (you can see private key in keys.json).
+Here is the key: 99c167f3260c7de6cb92cde2bb83fdf30660a2778d181c5af2ab045b39ed8e88 (adress: 0x2aac0eb300fa402730bced0b4c43a7fe6bf6491e)
+```
